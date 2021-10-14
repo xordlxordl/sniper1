@@ -33,9 +33,9 @@ MonoBehaviour:
   m_lengthInMetric: 7.24
   m_barrelTwistInMetric: 406
   m_zeroCalculated: 0
-  m_ballisticSimulationFoldout: 0
+  m_ballisticSimulationFoldout: 1
   m_horizontalRange: 500
   m_verticalRange: 100
   m_shootingAngle: 0
   m_timeShown: 0
-  m_environmentProperties: {fileID: 0}
+  m_environmentProperties: {fileID: 11400000, guid: ed4d34d1df90906468b4f9b4408bf629, type: 2}
